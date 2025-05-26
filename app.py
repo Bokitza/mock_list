@@ -41,12 +41,43 @@ customers = [
   {"first_name": "עידו", "last_name": "פיין", "age": 92, "burgers": 24, "fries": 2, "ice_cream": 84, "club": false},
   {"first_name": "לירון", "last_name": "וייס", "age": 60, "burgers": 16, "fries": 75, "ice_cream": 93, "club": true},
   {"first_name": "אורי", "last_name": "פרץ", "age": 49, "burgers": 20, "fries": 54, "ice_cream": 45, "club": false},
-  {"first_name": "מיה", "last_name": "נגר", "age": 30, "burgers": 40, "fries": 3, "ice_cream": 14, "club": true},
+  {"first_name": "מיה", "last_name": "נגר", "age": 30, "burgers": 0, "fries": 0, "ice_cream": 14, "club": true},
   {"first_name": "אור", "last_name": "הראל", "age": 52, "burgers": 10, "fries": 9, "ice_cream": 1, "club": false},
-  {"first_name": "יעל", "last_name": "בן חורין", "age": 40, "burgers": 70, "fries": 79, "ice_cream": 59, "club": false},
+  {"first_name": "יעל", "last_name": "בן חורין", "age": 40, "burgers": 0, "fries": 0, "ice_cream": 59, "club": false},
   {"first_name": "אייל", "last_name": "חזן", "age": 34, "burgers": 14, "fries": 16, "ice_cream": 36, "club": true},
   {"first_name": "רוני", "last_name": "כץ", "age": 24, "burgers": 79, "fries": 38, "ice_cream": 65, "club": false},
   {"first_name": "תהל", "last_name": "שלם", "age": 43, "burgers": 2, "fries": 42, "ice_cream": 3, "club": false},
   {"first_name": "אלון", "last_name": "זמיר", "age": 68, "burgers": 41, "fries": 8, "ice_cream": 91, "club": true},
-  {"first_name": "אדם", "last_name": "גולדשטיין", "age": 87, "burgers": 19, "fries": 91, "ice_cream": 79, "club": true}
+  {"first_name": "אדם", "last_name": "גולדשטיין", "age": 87, "burgers": 0, "fries": 0, "ice_cream": 79, "club": true}
 ]
+
+# כמה המבורגרים נקנו סך הכל בשנה האחרונה?
+
+
+# כמה צ'יפס ננה סך הכל בשנה האחרונה?
+
+
+# כמה חברי מועדון נרשמו בשנה האחרונה?
+
+
+# מה אחוז חברי המועדון מסך הלקוחות?
+
+
+# מה הגיל הממוצע של הלקוחות שלנו?
+
+
+# כמה אנשים קנו רק קינוח (בלי צ'יפס או המבורגר)?
+
+
+# תדפיסו את השם המלא של כל האנשים מעל גיל 50 שקנו בחנות בשנה האחרונה
+
+
+# בונוס- האם בעיקר ילדים קונים גלידות? הוכיחו בעזרת מילים וקוד
+
+# מי הלקוח שקנה הכי הרבה המבורגרים?
+
+
+#מי הלקוח שקנה הכי הרבה דברים סך הכל? (המבורגר+צ'יפס+גלידה) 
+
+
+# 
